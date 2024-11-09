@@ -5,3 +5,18 @@ Install React-icns : npm i react-icons
 amazon Log Img: https://pngimg.com/uploads/amazon/amazon_PNG11.png
 
 USA flag Img : https://www.shutterstock.com/shutterstock/photos/2475214357/display_1500/stock-vector-american-flag-usa-design-united-states-flag-rendered-usa-flag-the-usa-national-flag-2475214357.jpg
+
+What I will learn in this project:
+==================================
+1. components based styling
+2. Global state management using useReducer and Context API
+3. API Integration (both external and my own API) and payment/ create
+4. React App Routing including Dynamic and programmetic navigation
+5. Authentication and Route protextion
+6. External services integrations (Firebase for Authentication and database)
+7. payment gate way integrations
+8. preparing a backend api for react App
+9. Deployment (both Frontend and backend)
+
+===============================
+To add loweheader icon we need to go react-icon select that one
