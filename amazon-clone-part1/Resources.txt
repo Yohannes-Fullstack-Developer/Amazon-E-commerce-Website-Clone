@@ -1,0 +1,7 @@
+
+This is a link: https://www.npmjs.com/package/react-icons
+Install React-icns : npm i react-icons
+
+amazon Log Img: https://pngimg.com/uploads/amazon/amazon_PNG11.png
+
+USA flag Img : https://www.shutterstock.com/shutterstock/photos/2475214357/display_1500/stock-vector-american-flag-usa-design-united-states-flag-rendered-usa-flag-the-usa-national-flag-2475214357.jpg
