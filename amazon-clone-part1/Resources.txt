@@ -20,3 +20,10 @@ What I will learn in this project:
 
 ===============================
 To add loweheader icon we need to go react-icon select that one
+
+
+React Responsive carousel this is need to slide moving 
+This is a link: https://www.npmjs.com/package/react-responsive-carousel
+Install carousel: npm i react-responsive-carousel
+
+To be style of carosuel we need to import bootstrap of carosuel from react carosuel documentation
