@@ -27,3 +27,8 @@ This is a link: https://www.npmjs.com/package/react-responsive-carousel
 Install carousel: npm i react-responsive-carousel
 
 To be style of carosuel we need to import bootstrap of carosuel from react carosuel documentation
+
+
+========================================
+catagory to garp image use fake store APi 
+To grap inage to catagory use this link: https://fake storeapi.com/
