@@ -32,3 +32,15 @@ To be style of carosuel we need to import bootstrap of carosuel from react caros
 ========================================
 catagory to garp image use fake store APi 
 To grap inage to catagory use this link: https://fake storeapi.com/
+
+To grap products from fack store API : use above link select all product
+
+now instal axious to use fetch data
+
+To grap rating and price of product we use Material UI 
+this is a link: https://mui.com/material-ui/getting-started/
+Instal Material Ui : npm install @mui/material @emotion/react @emotion/styled 
+
+This is a links for price control: http://numeraljs.com/ 
+Install: npm install numeral
+

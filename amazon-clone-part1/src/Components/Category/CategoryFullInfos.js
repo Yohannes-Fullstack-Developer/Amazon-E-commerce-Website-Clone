@@ -25,16 +25,16 @@ export const categoryInfos = [
     imgLink:
       "https://m.media-amazon.com/images/I/71r7eWuCsaL._AC_UL480_FMwebp_QL65_.jpg",
   },
-  {
-    title: "Jewelery",
-    name: "jewelery",
-    imgLink:
-      "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-  },
-  {
-    title: "Jewelery",
-    name: "jewelery",
-    imgLink:
-      "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-  },
+  // {
+  //   title: "Jewelery",
+  //   name: "jewelery",
+  //   imgLink:
+  //     "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+  // },
+  // {
+  //   title: "Jewelery",
+  //   name: "jewelery",
+  //   imgLink:
+  //     "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+  // },
 ];
