@@ -1,18 +1,19 @@
-// import React from 'react'
-// import LayOut from "../../Components/LayOut/LayOut";
-// import Carousel from '../../Components/Carousel/CarouselEffect'
-// import Category from "../../Components/Category/Category";
-// import Product from "../../Components/Product/Product";
-// function Landing() {
-//   return (
-//     <LayOut>
-      
-//       <Carousel/>
-//       <Category />
-//       <Product />
+import React from 'react'
+import LayOut from "../../Components/LayOut/LayOut";
+import Carousel from '../../Components/Carousel/CarouselEffect'
+import Category from "../../Components/Category/Category";
+import Product from "../../Components/Product/Product";
+function Landing() {
+  return (
+    <LayOut>
 
-//     </LayOut>
-//   );
-// }
+      <Carousel/>
+      <Category />
+      <Product />
 
-// export default Landing;
+    </LayOut>
+  );
+}
+
+export default Landing;
+// Those are consider as like childern

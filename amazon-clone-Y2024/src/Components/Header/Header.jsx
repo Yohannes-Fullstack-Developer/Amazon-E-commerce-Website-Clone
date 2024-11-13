@@ -1,6 +1,6 @@
 import React from "react";
 import classes from "./Header.module.css";
-// import {Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 import { GrLocation } from "react-icons/gr"; // Location pin icon
 import { BsSearch } from "react-icons/bs";
 import { BiCart } from "react-icons/bi";
@@ -15,11 +15,11 @@ import LowerHeader from "./LowerHeader";
           {/* logo section */}
           <div className={classes.logo__container}>
             {/* this <a 'herf' to change 'link' ,'to' */}
-            <a href="/"> 
+            <Link to="/"> 
               <img
                 src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
                 alt="amazon logo" />       
-             </a>
+             </Link>
             <div className={classes.delivery}>
               <span>
                 <GrLocation />
@@ -40,7 +40,7 @@ import LowerHeader from "./LowerHeader";
           </div>
           {/* right side  section */}
           <div className={classes.order__container}>
-            <a href="" className={classes.language}>
+            <Link to="" className={classes.language}>
               <img
                 src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1024px-Flag_of_the_United_States.svg.png"
                 alt=""
@@ -48,22 +48,22 @@ import LowerHeader from "./LowerHeader";
               <select name="" id="">
                 <option value="">EN</option>
               </select>
-           </a>
+           </Link>
             {/* sign in  */}
-            <a href="">
+            <Link to="">
                <p>Sign In</p>
                <span>Account & Lists</span>
-            </a>
+            </Link>
                {/* orders returns */}
-            <a href="orders">
+            <Link to="/orders">
               <p>Returns</p>
               <span>& Orders</span>
-            </a>
+            </Link>
             {/* cart */}
-            <a href="/cart" className={classes.cart}>
+            <Link to="/cart" className={classes.cart}>
               <BiCart size={35} />
               <span>0</span>
-            </a>
+            </Link>
            </div>
         </div>
     </section>
