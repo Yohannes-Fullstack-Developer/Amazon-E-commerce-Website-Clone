@@ -45,9 +45,19 @@ import LowerHeader from "./LowerHeader";
                 src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1024px-Flag_of_the_United_States.svg.png"
                 alt=""
               />
-              <select name="" id="">
-                <option value="">EN</option>
+                <select name="country" id="country-select">
+                <option value="">US</option>
+                <option value="en">EN</option> 
+                <option value="es">ET</option>
+                <option value="fr">FR</option>
+                <option value="de">GE</option> 
+                <option value="it">IT</option> 
+                <option value="zh">CH</option> 
+                <option value="ja">JA</option> 
+                <option value="ko">KO</option> 
+                <option value="ru">RU</option>
               </select>
+
            </Link>
             {/* sign in  */}
             <Link to="">
